@@ -8,7 +8,7 @@ echo "<h1>Server Details</h1><p><strong>Hostname:</strong> $(hostname)</p><p><st
 sudo systemctl restart apache2
 ```
 
-## Command for creating 'foo', 'bar' pages
+## Command for creating `foo`,  `bar` pages
 
 ```
 sudo mkdir /var/www/html/foo
