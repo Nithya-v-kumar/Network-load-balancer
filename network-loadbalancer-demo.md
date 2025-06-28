@@ -21,4 +21,5 @@ sudo vi /var/www/html/foo/index.html
 <h1>Hello from /foo demo-nlb-ec2-1</h1><p>This is a sample hello message in /foo.html.
 sudo vi /var/www/html/bar/index.html
 <h1>Hello from /bar demo-nlb-ec2-1</h1><p>This is a sample hello message in /bar.html.</p>"
+sudo systemctl restart apache2
 ```
