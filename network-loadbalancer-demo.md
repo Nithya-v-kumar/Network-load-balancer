@@ -25,3 +25,6 @@ sudo vi /var/www/html/bar/index.html
 sudo systemctl daemon-reload
 sudo systemctl restart apache2
 ```
+run in browser http://public IP/foo/
+run in browser http://public IP/bar/
+
